@@ -4,4 +4,4 @@
 
 **`Location:`** Ukraine, Dnipropetrovsk Region
 
-**`Email:`** b.kyrylo.contact@pm.me
+**`Email:`** `b.kyrylo.contact@pm.me`
