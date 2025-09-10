@@ -1,9 +1,5 @@
-**`Name:`** `Kyrylo`
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrylo-tech&layout=donut)
 
-**`Languages:`** `Python`,`JavaScript`,`Lua`
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrylo-tech&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 
-**`Website:`** `https://ro-vision.tech/`
-
-**`Email:`** `b.kyrylo.contact@pm.me`
-
-**`My Domains:`** `ro-vision.tech`,`lumeriq.com`,`clamune.space`
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyrylo_tech)](https://github.com/anuraghazra/github-readme-stats)
